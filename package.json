@@ -67,7 +67,7 @@
         "moment": "2.22.2",
         "momentjs": "2.0.0",
         "net": "1.0.2",
-        "node-sass": "4.12.0",
+        "node-sass": "4.13.1",
         "node-sass-import": "1.1.1",
         "numeral": "2.0.4",
         "obs-store": "2.4.1",
